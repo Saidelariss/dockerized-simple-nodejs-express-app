@@ -1,0 +1,13 @@
+{
+    "name": "docker-nodejs-express",
+    "version": "1.0.0",
+    "description": "A simple Node.js app with Express and Morgan for Docker",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "morgan": "^1.10.0"
+    }
+  }
+  
